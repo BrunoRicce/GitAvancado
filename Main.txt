@@ -1,0 +1,9 @@
+void ini()
+{
+	printf("OI");
+}
+
+int main()
+{
+	ini();
+}
